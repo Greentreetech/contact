@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. John Birky
+N:Birky;John;;Dr.;
+TITLE:Consultant Family Physician
+TEL;TYPE=WORK,VOICE:+971500003577
+TEL;TYPE=CELL:+971500003577
+EMAIL;TYPE=WORK:connect@drjohnbirky.com
+ADR;TYPE=WORK:;;Building 64, Dubai Healthcare City;Dubai;;;United Arab Emirates
+URL:https://drjohnbirky.com
+URL;TYPE=WhatsApp:https://wa.me/971500003577
+URL;TYPE=Instagram:https://instagram.com/dr.johnbirky
+URL;TYPE=LinkedIn:https://linkedin.com/in/john-birky-md-b13120280
+URL;TYPE=Snapchat:https://snapchat.com/add/drjohnbirky
+END:VCARD
