@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Dr. John Birky
-N:Birky;John;;Dr.;
-TITLE:Consultant Family Physician
+FN:Dr. John Birky MD
+N:Birky;John;;Dr.;MD
+TITLE:Private Executive and Functional Medicine
 TEL;TYPE=WORK,VOICE:+971500003577
 TEL;TYPE=CELL:+971500003577
 EMAIL;TYPE=WORK:johnbirky@gmail.com
