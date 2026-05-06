@@ -1,18 +1,17 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:4.0
 FN:Dr. John Birky MD
 N:Birky;John;;Dr.;MD
 TITLE:Consultant Family Physician
 ROLE:Private Executive and Functional Medicine
-TEL;TYPE=CELL:+971500003577
-TEL;TYPE=WORK,VOICE,PREF:+971500003577
-TEL;TYPE=WORK,VOICE:+971553997368
-EMAIL;TYPE=WORK:connect@drjohnbirky.com
-ADR;TYPE=WORK:;;DHCC Al Razi Building 64, Block A, Unit 305;Dubai;;;United Arab Emirates
+TEL;TYPE="cell,voice,text";PREF=1;VALUE=uri:tel:+971500003577
+TEL;TYPE="work,voice";VALUE=uri:tel:+971553997368
+EMAIL;TYPE=work:connect@drjohnbirky.com
+ADR;TYPE=work:;;DHCC Al Razi Building 64, Block A, Unit 305;Dubai;;;United Arab Emirates
 URL:https://drjohnbirky.com
 URL:https://renuhealthclinic.com
-URL;TYPE=WhatsApp:https://wa.me/971500003577
-URL;TYPE=Instagram:https://instagram.com/dr.johnbirky
-URL;TYPE=LinkedIn:https://linkedin.com/in/john-birky-md-b13120280
-URL;TYPE=Snapchat:https://snapchat.com/add/drjohnbirky
+IMPP:https://wa.me/971500003577
+X-SOCIALPROFILE;TYPE=instagram:https://instagram.com/dr.johnbirky
+X-SOCIALPROFILE;TYPE=linkedin:https://linkedin.com/in/john-birky-md-b13120280
+X-SOCIALPROFILE;TYPE=snapchat:https://snapchat.com/add/drjohnbirky
 END:VCARD
